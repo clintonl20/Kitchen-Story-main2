@@ -86,7 +86,7 @@ Flow chart is for submit number 1 (some few changes were not added here)
   
 •	Run using ng serve –open
 
-•	It would be shown in http://localhost:4200/
+
 
 
 ## Screenshots
